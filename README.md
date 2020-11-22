@@ -1,2 +1,2 @@
-# bootcamp_alura
+# Bootcamp Data Science Aplicado.
 Atividades Realizadas no bootcamp da Alura.
